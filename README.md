@@ -2,7 +2,7 @@
 Reswara Ganendra Rashi Dewa | 2409116100 | Sistem Informasi C 2024
 
 # Flowchart
-![image](https://github.com/user-attachments/assets/96a5a46a-d618-42fc-9105-933b057fdf09)
+![image](https://github.com/user-attachments/assets/a337d650-f384-452f-889a-69d0eafd7b74)
 
 # Penjelasan Output Program
 1. MELAKUKAN LOGIN
